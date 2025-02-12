@@ -10,6 +10,8 @@ HFA Subtitles Auto Transcription is a tool designed to facilitate the creation o
 
 ## How to Use
 
+Click [this link](https://colab.research.google.com/github/kiteretsu903/HFA_subtitles/blob/main/HFA_Subtitles.ipynb) to access in Google Colab Notebook
+
 
 ## License
 
